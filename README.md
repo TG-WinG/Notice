@@ -1,5 +1,5 @@
 # Meeting Log
-## Kick-off Meeting
+## Kick-off Meeting (2102XX)
 ### 1. 동아리 홍보
 - 포스터, 발표자료 제작: 2/19
 - 신입생 대상 발표: 2/19
