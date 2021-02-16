@@ -1,4 +1,4 @@
-# Notice
+# Notice (Official)
 ## Kick-off Meeting
 T.G.WinG 공식 깃허브 계정이 생겼습니다🤗  
 
