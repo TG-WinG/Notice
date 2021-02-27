@@ -6,5 +6,5 @@
 T.G.WinG 동아리 활동에 많이 참여해주시길 부탁드립니다❤️  
 
 ## Official
-### [2021.02.08](https://github.com/TG-WinG/Notice/tree/master/2021.02.08#20210208) ⭐⭐⭐
-### [2021.02.16](https://github.com/TG-WinG/Notice/blob/master/2021.02.16#20210216) ⭐
+### [2021.02.08](https://github.com/TG-WinG/Notice/tree/master/2021.02.08#20210208) ⭐⭐
+### [2021.02.16](https://github.com/TG-WinG/Notice/blob/master/2021.02.16#20210216) ⭐⭐⭐
