@@ -3,7 +3,7 @@
 T.G.WinG 재학생, 졸업생 모두에게 공지드립니다😀  
 저희 Slack 커뮤니티를 보다 활성화해보려고 합니다!!  
 
-T.G.WinG Slack: tgwinghq.slack.com
+T.G.WinG Slack: tgwinghq.slack.com  
 [#공지사항](https://app.slack.com/client/T01P6E0V1CZ/C01P6E0V3J5) [#리크루잇](https://app.slack.com/client/T01P6E0V1CZ/C01Q7HWLGNL) [#신입생_교육](https://app.slack.com/client/T01P6E0V1CZ/C01QTHANWQZ) [#재학생](https://app.slack.com/client/T01P6E0V1CZ/C01NQNME1C5) [#졸업생](https://app.slack.com/client/T01P6E0V1CZ/C01NTR6HCPL)  
 [#application](https://app.slack.com/client/T01P6E0V1CZ/C01PKFGFSRK) [#backend](https://app.slack.com/client/T01P6E0V1CZ/C01PKFEFHJ9) [#frontend](https://app.slack.com/client/T01P6E0V1CZ/C01P7QNK46T) [#machine_learning](https://app.slack.com/client/T01P6E0V1CZ/C01PUNZC7TN) [#security](https://app.slack.com/client/T01P6E0V1CZ/C01PP9NPPU2)  
 
