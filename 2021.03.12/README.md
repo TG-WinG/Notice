@@ -13,7 +13,7 @@ T.G.WinG Slack: tgwinghq.slack.com
 
 + 만약 추가하고 싶은 채널이 있다면, 마음껏 생성해주시면 됩니다!!
 + 채널 생성, 채널 검색 방법은 아래 사진 참고해주시면 감사하겠습니다 🙏
-![방법](https://user-images.githubusercontent.com/20378368/110885612-851bf880-832a-11eb-9ee1-62ac985749fd.JPG)
+    <p><img src="https://user-images.githubusercontent.com/20378368/110885612-851bf880-832a-11eb-9ee1-62ac985749fd.JPG" width="70%"></p>
 
 ### [T.G.WinG Tech-Concert 공지 📢]
 T.G.WinG Tech-Concert를 하루 앞두고 있네요!!  
